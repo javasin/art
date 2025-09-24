@@ -38,6 +38,9 @@ This tool is more useful in environments with many developers and many servers.
 - [x] Show overwrite Confirm
 
   Show a warning window when overwritten.
+- [x] Console autofocus
+      
+  When an event occurs after selection, the focus moves to the console.
 
 
 
@@ -101,7 +104,7 @@ This tool is more useful in environments with many developers and many servers.
 > Show the log file.
 
 
-[file:setting.png]: ./.github/readme/setting.png
+[file:setting.png]: ./.github/readme/setting_v2.png
 [file:new_server.png]: ./.github/readme/new_server.png
 [file:right_click.png]: ./.github/readme/right_click.png
 [file:confirm.png]: ./.github/readme/confirm.png
